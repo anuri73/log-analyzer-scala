@@ -1,1 +1,6 @@
-target/config-classes/*
+*.class
+*.cache
+*.log
+
+!target/.gitkeep
+target
