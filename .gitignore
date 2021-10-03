@@ -1,6 +1,8 @@
 *.class
 *.cache
+
 *.log
+!access.log
 
 !target/.gitkeep
 target
